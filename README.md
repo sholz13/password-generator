@@ -26,3 +26,4 @@ Shola Onabanjo.
                 </label>
                 <input type="checkbox" id="numbers" checked />
                 </div>
+<img width="450" alt="Screen Shot 2021-08-02 at 10 01 47 PM" src="https://user-images.githubusercontent.com/82775553/128001683-633fc0d0-9836-43ba-85bf-252e2e288e21.png">
